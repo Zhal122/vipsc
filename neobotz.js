@@ -1166,7 +1166,7 @@ Dana/Ovo/Pulsa/Qris/Bank
 *Minat? Langsung chat aja ya cuy 🐦*
 
 *Contact person* :
-wa.me/6282279915237
+CLOSED
 `
 l = 1
 monospace = '```'
@@ -1205,7 +1205,7 @@ Jika Ada Fitur Error Atau Bug Segera Lapor Ke Develover Botz
 > 𝘜𝘮𝘶𝘳 : *15+ tahun*  
 > 𝘙𝘦𝘨𝘪𝘰𝘯 : *Indonesia 🇲🇨*
 > 𝘏𝘰𝘣𝘣𝘺 : *nonton hentai*
-> 𝘔𝘢𝘥𝘦 𝘐𝘯 : *Palembang*
+> 𝘔𝘢𝘥𝘦 𝘐𝘯 : *Jabar*
 ────────────
 ❏ 𝙅𝙖𝙢 𝙄𝙣𝙙𝙤𝙣𝙚𝙨𝙞𝙖 
 > 𝘞𝘪𝘣 : *${moment().utcOffset('+0700').format('HH:mm')}*
@@ -1263,7 +1263,7 @@ url: 'https://chat.whatsapp.com/Gm5HJW8DjyCFme2fa8n7jW
 }, {
 urlButton: {
 displayText: 'SOURCE CODE',
-url: 'https://youtube.com/channel/UCGDk88W54RJOgk6b1p42NVg'
+url: 'https://youtube.com'
 }
 }, {
 quickReplyButton: {
@@ -1294,7 +1294,7 @@ url: 'https://chat.whatsapp.com/GciZhPy6pBbBSVb835alF9'
 }, {
 urlButton: {
 displayText: 'SOURCE CODE',
-url: 'https://chat.whatsapp.com/Gm5HJW8DjyCFme2fa8n7jW'
+url: 'CLOSED'
 }
 }, {
 quickReplyButton: {
@@ -1374,7 +1374,7 @@ url: 'https://youtube.com/channel/'
 }, {
 callButton: {
 displayText: 'DEVELOPER BOT',
-phoneNumber: '+62 823816171575'
+phoneNumber: '+62 823816171576'
 }
 }, {
 quickReplyButton: {
