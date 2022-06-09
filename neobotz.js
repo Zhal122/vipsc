@@ -1201,7 +1201,7 @@ Jika Ada Fitur Error Atau Bug Segera Lapor Ke Develover Botz
 > 𝘕𝘰𝘮𝘰𝘳 : *+${global.ownernumber}*
 ────────────
 ❏ 𝙄𝙣𝙛𝙤 𝘾𝙧𝙚𝙖𝙩𝙤𝙧
-> 𝘕𝘢𝘮𝘢 : *ZhaaLL *
+> 𝘕𝘢𝘮𝘢 : *ZhaaLL*
 > 𝘜𝘮𝘶𝘳 : *15+ tahun*  
 > 𝘙𝘦𝘨𝘪𝘰𝘯 : *Indonesia 🇲🇨*
 > 𝘏𝘰𝘣𝘣𝘺 : *nonton hentai*
@@ -1250,7 +1250,7 @@ displayText: '𝐋𝐈𝐒𝐓 𝐌𝐄𝐍𝐔 𝐁𝐎𝐓',
 id: 'command'
 }
 }]
-mans.send5ButImg(m.chat, `${require('./message/help.js').donate(prefix, l, pushname)}`, `© 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 𝘓𝘦𝘹𝘹𝘺 𝘖𝘧𝘧𝘪𝘤𝘪𝘢𝘭`, qris, btnR)
+mans.send5ButImg(m.chat, `${require('./message/help.js').donate(prefix, l, pushname)}`, `© 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 ZhaaLL`, qris, btnR)
 }
 break
 case 'sewa': case 'sewabot':
@@ -1281,7 +1281,7 @@ displayText: '𝐋𝐈𝐒𝐓 𝐌𝐄𝐍𝐔 𝐁𝐎𝐓',
 id: 'command'
 }
 }]
-mans.send5ButImg(m.chat, `${require('./message/help.js').sewabot(prefix, l, pushname)}`, `© 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 𝘓𝘦𝘹𝘹𝘺 𝘖𝘧𝘧𝘪𝘤𝘪𝘢𝘭`, sewabot, btnD)
+mans.send5ButImg(m.chat, `${require('./message/help.js').sewabot(prefix, l, pushname)}`, `© 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 ZhaaLL`, sewabot, btnD)
 }
 break
 case 'iklan':
@@ -1339,7 +1339,7 @@ displayText: 'INFO PROFILE',
 id: 'hanzo'
 }
     }]
-mans.send5ButImg(m.chat, `${require('./message/help.js').help(prefix, l, pushname)}`, `© 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 𝘓𝘦𝘹𝘹𝘺 𝘖𝘧𝘧𝘪𝘤𝘪𝘢𝘭`, thumbv, spow)
+mans.send5ButImg(m.chat, `${require('./message/help.js').help(prefix, l, pushname)}`, `© 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 ZhaaLL`, thumbv, spow)
 }
 break
 case 'hanzo': case 'prp': case 'inventori': case 'profile':{
