@@ -1258,7 +1258,7 @@ case 'sewa': case 'sewabot':
 let btnD = [{
 urlButton: {
 displayText: 'GROUP BOT',
-url: 'https://chat.whatsapp.com/Gm5HJW8DjyCFme2fa8n7jW
+url: 'https://chat.whatsapp.com/Gm5HJW8DjyCFme2fa8n7jW'
 }
 }, {
 urlButton: {
